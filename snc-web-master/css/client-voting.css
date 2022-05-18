@@ -1,0 +1,25 @@
+.clear-vote-div {
+    background: #FFF;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.clear-vote-div > button {
+    margin-right: 10px;
+    float: right;
+}
+
+.clear-vote-div > div {
+    display: inline-block;
+    white-space: normal;
+}
+
+@media screen and (max-width: 800px) {
+    .clear-vote-div > button {
+        margin-top: 10px;
+        float: none;
+        /* top: 20px; */
+        /* left: 50%; */
+        /* transform: translate(-50%, 40px); */
+    }
+}

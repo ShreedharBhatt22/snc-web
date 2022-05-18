@@ -1,0 +1,152 @@
+/***************CSS FOR IMAGE SLIDER*****************/
+.img-slider .slider-image{
+    display: none;
+    position: relative;
+}
+.img-slider .slider-image .slider-text{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    bottom: 10%;
+    left: 50%;
+}
+.img-slider .slider-image:after{
+    content:'';
+    position:absolute;
+    right:0; 
+    top:0;
+    width:15%;
+    height:100%;
+    display:inline-block;
+    background: linear-gradient(to right, transparent 0%,rgba(0,0,0,0.6) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002f4b', endColorstr='#00000000',GradientType=0 );
+}
+.img-slider .slider-image:before{
+    content:'';
+    position:absolute;
+    left:0; 
+    top:0;
+    width:15%;
+    height:100%;
+    display:inline-block;
+    background: linear-gradient(to right, rgba(0,0,0,0.6) 0%, transparent 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002f4b', endColorstr='#00000000',GradientType=0 );
+}
+.img-slider .slider-image:first-child{
+    display: block;
+}
+.img-slider{
+    margin: auto;
+    padding: 0px;
+    width: 100%;
+    position: relative;
+    height: 100vh;
+}
+.img-slider .slider-image{
+    position: relative;
+    animation-name: fade;
+    animation-duration: 2s;
+}
+.img-slider .slider-image img{
+    width: 100%;
+    display: inline-block;
+    /* height: calc(100vh - 100px); */
+    height: 100vh;
+}
+.fade{
+    animation-name: fade;
+    animation-duration: 2s;
+}
+@keyframes fade{
+    from {opacity: 0.5;}
+    to { opacity: 1; }
+}
+.img-slider .button, .card-deck .button{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top:50%;
+    cursor: pointer;
+    z-index: 2;
+}
+.img-slider .button a span{
+    color: #ffffff;
+    transition: 0.5s ease;
+}
+.img-slider .button a span:hover{
+    color: #E259a3;
+}
+.img-slider .button-left{
+    left: 40px;
+}
+.img-slider .button-right{
+    right: 20px;
+}
+.pointer{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5%;
+    left:50%;
+}
+.pointer .dot{
+    display: inline-block;
+    cursor: pointer;
+}
+.pointer .dot i{
+    color: #f1f1f1;
+}
+.pointer .dot .active{
+    background-image: -webkit-linear-gradient(to bottom right, #E259a3, #F75288);
+    background-image: linear-gradient(to bottom right, #E259a3, #F75288);
+    color:transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+/***************CSS FOR SLDIER MEDIA QUERY*****************/
+
+@media only screen and (max-width: 500px) {
+    /* .img-slider .slider-image img {
+        height: 200px;
+    } */
+    /* .img-slider .slider-image .slider-text {
+        font-size: 0.7rem;
+        bottom: 25%;
+        text-transform: capitalize;
+    } */
+    .event-tab .event-container .card .card-body {
+        padding: 0.5rem;
+    }
+    .event-tab .event-container .card .date-tab , .event-tab .event-container .card .day-tab {
+        font-size: 0.9rem;
+    }
+    .event-tab .event-container .card span {
+        bottom: -26%;
+    }
+}
+@media (prefers-reduced-motion: reduce){
+    .carousel-item {
+        transition: transform 2s ease, opacity .5s ease-out;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .img-slider, .img-slider .slider-image img {
+        height: 70vh;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .img-slider, .img-slider .slider-image img {
+        height: 55vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .img-slider, .img-slider .slider-image img {
+        height: 40vh;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .img-slider, .img-slider .slider-image img {
+        height: 30vh;
+    }
+}

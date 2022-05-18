@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^sncpdpu\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.sncpdpu\.com$
+RewriteRule ^(.*)$ "https\:\/\/sncpdpu\.com\/$1" [R=301,L]
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
+RewriteCond %{HTTP_HOST} ^www\.sncpdpu\.com$
+RewriteRule ^/?$ "https\:\/\/sncpdpu\.com\/" [R=301,L]

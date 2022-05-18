@@ -1,0 +1,34 @@
+.otp-box {
+  /* border: 1px solid; */
+  text-align: center;
+}
+
+.otp {
+    border: 0;
+    border-bottom: 3px solid  #f75288;
+    /* text-align: center; */
+    border-width: 3px;
+    width: 40px;
+    text-align: center;
+    margin-right: 6px;
+    padding-bottom: 8px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+input:focus, textarea {
+    border-color: #f75288;
+    outline: none;
+}
+
+.submit {
+    margin-top: 20px;
+    border: none;
+    
+}

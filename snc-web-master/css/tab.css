@@ -1,0 +1,89 @@
+/**************CSS FOR TABS*************/
+.event-tab {
+    background-color: #FFF;
+}
+
+.event-tab .event-container {
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    margin-bottom: 4px;
+    /* padding-top: 16px; */
+    position: relative;
+}
+.event-tab .card-columns {
+    column-gap: 0;
+    display: flex;
+    width: max-content;
+    border-bottom: 4px solid #E259a3;
+    margin-bottom: 30px;
+}
+.event-tab .event-container .card {
+    min-width: 280px;
+    padding-bottom: 10px;
+    border: none;
+    margin:0px;
+    padding-top: 0px;
+    border-radius: 0px;
+    position: relative;
+    cursor: pointer;
+    background-color: transparent !important;
+}
+.event-tab .event-container .card span {
+    position: absolute;
+    bottom: -30px;
+    font-size: 48px;
+    left: 50%;
+    /* top: calc(5% + 6px); */
+    transform: translateX(-50%);
+    background-image: -webkit-linear-gradient(to bottom right, #E259a3, #F75288);
+    background-image: linear-gradient(to bottom right, #E259a3, #F75288);
+    color:transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    opacity: 0;
+    /* transition: ease-in 0.3s; */
+}
+.event-tab .event-container .card span.active{
+    opacity: 1;
+}
+.event-tab .event-container .card .card-body {
+    padding-bottom: 0px;
+}
+.event-tab-container .event-descp{
+    display:none;
+    transition: 0.5s ease;
+}
+.event-tab-container .active{
+    display:block;
+}
+
+.tns-controls button {
+    border:none;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top:50%;
+    z-index: 2;
+    outline: none;
+    background: transparent;
+}
+.tns-controls button:hover, .tns-controls button:focus {
+    color: #E259a3;
+}
+.tns-controls button[data-controls="next"] {
+    right: 0;
+}
+.tns-controls button[data-controls="prev"] {
+    left: 40px;
+}
+
+/* .tns-visually-hidden {
+    display: none;
+} */
+/***************CSS FOR Tab MEDIA QUERY*****************/
+
+@media only screen and (max-width: 500px) {
+    .event-tab .event-container .card .card-body{
+        padding: 10px;
+    }
+}

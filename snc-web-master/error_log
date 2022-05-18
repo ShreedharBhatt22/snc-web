@@ -1,0 +1,66 @@
+[10-Oct-2020 15:03:02 Etc/GMT] PHP Warning:  require_once(./include/class.phpmailer.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/feedback-script.php on line 12
+[10-Oct-2020 15:03:02 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './include/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/feedback-script.php on line 12
+[10-Oct-2020 15:03:05 Etc/GMT] PHP Warning:  require_once(./include/class.phpmailer.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/feedback-script.php on line 12
+[10-Oct-2020 15:03:05 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './include/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/feedback-script.php on line 12
+[10-Oct-2020 15:03:21 Etc/GMT] PHP Warning:  require_once(./include/class.phpmailer.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/feedback-script.php on line 12
+[10-Oct-2020 15:03:21 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './include/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/feedback-script.php on line 12
+[10-Oct-2020 15:17:34 Etc/GMT] PHP Warning:  require_once(./include/class.phpmailer.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/feedback-script.php on line 12
+[10-Oct-2020 15:17:34 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './include/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/feedback-script.php on line 12
+[10-Oct-2020 15:17:40 Etc/GMT] PHP Warning:  require_once(./include/class.phpmailer.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/feedback-script.php on line 12
+[10-Oct-2020 15:17:40 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './include/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/feedback-script.php on line 12
+[21-Oct-2020 06:48:09 Etc/GMT] PHP Warning:  include(./include/DB_Conn.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/raasotsav.php on line 3
+[21-Oct-2020 06:48:09 Etc/GMT] PHP Warning:  include(./include/DB_Conn.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/raasotsav.php on line 3
+[21-Oct-2020 06:48:09 Etc/GMT] PHP Warning:  include(): Failed opening './include/DB_Conn.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/raasotsav.php on line 3
+[21-Oct-2020 18:11:31 Etc/GMT] PHP Fatal error:  Class 'DbConn' not found in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 187
+[21-Oct-2020 18:14:18 Etc/GMT] PHP Warning:  require_once(./geoplugin.class.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:14:18 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './geoplugin.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:14:57 Etc/GMT] PHP Warning:  require_once(./geoplugin.class.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:14:57 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './geoplugin.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:15:49 Etc/GMT] PHP Warning:  require_once(./include/DbConn.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:15:49 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './include/DbConn.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:15:58 Etc/GMT] PHP Warning:  require_once(./include/DbConn.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:15:58 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './include/DbConn.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:16:22 Etc/GMT] PHP Warning:  require_once(./include/DbConn.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:16:22 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './include/DbConn.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:20:15 Etc/GMT] PHP Warning:  require_once(/home/flareslp/public_html/sncpdpu.com/include/DbConn.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:20:15 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home/flareslp/public_html/sncpdpu.com/include/DbConn.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:20:25 Etc/GMT] PHP Warning:  require_once(/home/flareslp/public_html/sncpdpu.com/include/DbConn.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:20:25 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home/flareslp/public_html/sncpdpu.com/include/DbConn.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:22:26 Etc/GMT] PHP Warning:  require(/home/flareslp/public_html/sncpdpu.com./include/geodata.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/footer.php on line 101
+[21-Oct-2020 18:22:26 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/flareslp/public_html/sncpdpu.com./include/geodata.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/footer.php on line 101
+[21-Oct-2020 18:23:00 Etc/GMT] PHP Warning:  require_once(/home/flareslp/public_html/sncpdpu.com/include/DbConn.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:23:00 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home/flareslp/public_html/sncpdpu.com/include/DbConn.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 5
+[21-Oct-2020 18:24:07 Etc/GMT] PHP Warning:  require_once(./geoplugin.class.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:24:07 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './geoplugin.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:24:59 Etc/GMT] PHP Warning:  require_once(./geoplugin.class.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:24:59 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './geoplugin.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:32:18 Etc/GMT] PHP Warning:  require_once(./geoplugin.class.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:32:18 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './geoplugin.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:33:34 Etc/GMT] PHP Warning:  require_once(/home/flareslp/public_html/sncpdpu.com/include/Db_Conn.php): failed to open stream: No such file or directory in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[21-Oct-2020 18:33:34 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home/flareslp/public_html/sncpdpu.com/include/Db_Conn.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/flareslp/public_html/sncpdpu.com/include/geodata.php on line 4
+[22-Oct-2020 12:50:39 Etc/GMT] PHP Fatal error:  Call to undefined function convertDate() in /home/flareslp/public_html/sncpdpu.com/raasotsav.php on line 105
+[22-Oct-2020 12:50:40 Etc/GMT] PHP Fatal error:  Call to undefined function convertDate() in /home/flareslp/public_html/sncpdpu.com/raasotsav.php on line 105
+[22-Oct-2020 13:36:40 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/flareslp/public_html/sncpdpu.com/include/AES.php:99
+Stack trace:
+#0 /home/flareslp/public_html/sncpdpu.com/include/DB_Conn.php(46): AES->decrypt()
+#1 /home/flareslp/public_html/sncpdpu.com/vote.php(3): makeSafe(NULL, 'decrypt')
+#2 {main}
+  thrown in /home/flareslp/public_html/sncpdpu.com/include/AES.php on line 99
+[22-Oct-2020 13:36:43 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/flareslp/public_html/sncpdpu.com/include/AES.php:99
+Stack trace:
+#0 /home/flareslp/public_html/sncpdpu.com/include/DB_Conn.php(46): AES->decrypt()
+#1 /home/flareslp/public_html/sncpdpu.com/vote.php(3): makeSafe(NULL, 'decrypt')
+#2 {main}
+  thrown in /home/flareslp/public_html/sncpdpu.com/include/AES.php on line 99
+[22-Oct-2020 13:42:25 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/flareslp/public_html/sncpdpu.com/include/AES.php:99
+Stack trace:
+#0 /home/flareslp/public_html/sncpdpu.com/include/DB_Conn.php(46): AES->decrypt()
+#1 /home/flareslp/public_html/sncpdpu.com/vote.php(3): makeSafe(NULL, 'decrypt')
+#2 {main}
+  thrown in /home/flareslp/public_html/sncpdpu.com/include/AES.php on line 99
+[22-Oct-2020 13:44:55 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/flareslp/public_html/sncpdpu.com/include/AES.php:99
+Stack trace:
+#0 /home/flareslp/public_html/sncpdpu.com/include/DB_Conn.php(46): AES->decrypt()
+#1 /home/flareslp/public_html/sncpdpu.com/vote.php(3): makeSafe(NULL, 'decrypt')
+#2 {main}
+  thrown in /home/flareslp/public_html/sncpdpu.com/include/AES.php on line 99

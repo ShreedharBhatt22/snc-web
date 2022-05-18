@@ -1,0 +1,56 @@
+.large-card {
+    background-color: #aaaaaa;
+    background: url('../assets/images/large-card-bg.jpg');
+    background-size: 100% 150%;
+    background-repeat: no-repeat;
+    min-height: 300px;
+    color: #FFF;
+}
+
+.large-card-left {
+    flex: 1 1 30%;
+    padding: 20px;
+}
+
+.large-card-right {
+    flex: 1 1 70%;
+}
+
+.large-card .time-location > div {
+    color: #FFF;
+    margin: 30px 0;
+}
+
+.large-card-right > div {
+    margin: 20px 0;
+}
+
+.large-card .card-actions {
+    padding: 0 20px;
+    float: right;
+}
+
+.large-card .card-actions > a {
+    margin: 20px;
+}
+
+@media screen and (max-width: 680px) {
+    .large-card > div {
+        display: block;
+        width: 100%;
+    }
+    .large-card-left {
+        flex: 1 1 50%;
+        padding: 20px;
+    }
+    
+    .large-card-right {
+        flex: 1 1 50%;
+        padding: 20px;
+    }
+
+    .large-card .card-actions {
+        float: none;
+        text-align: center;
+    }
+}

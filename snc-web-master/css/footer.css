@@ -1,0 +1,132 @@
+footer {
+    width: 100%;
+    padding: 40px 20px 15px;
+    border-bottom: 10px solid #92AAE7;
+    background: linear-gradient(#151515 0.1%, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url('../assets/images/footer-bg.jpg');
+    background-position: bottom;
+}
+.main-footer {
+    display: flex;
+}
+
+.footer-card {
+    flex: 1 1 25%;
+    text-align: center;
+    align-self: flex-start;
+}
+
+.logo-div div {
+    margin: 24px 0 10px;
+}
+
+.main-footer .logo-div img {
+    width: 100%;
+    max-width: 190px;
+}
+.main-footer .logo-div img:last-child {
+    max-width: 170px;
+}
+
+.info-div div {
+    margin: 12px 0;
+}
+
+.social-div {
+    width: max-content;
+    text-align: left;
+}
+
+.social-div svg {
+    width: 22px;
+    fill: #F1F1F1;
+    transition: ease-in 0.2s;
+}
+
+.footer-card .social-icons a:hover svg, .footer-card .social-icons a:focus svg {
+    transform: scale(1.1);
+}
+
+.ph-color:hover svg, .ph-color:focus svg {
+    fill: #40ac71 !important;
+}
+.ml-color:hover svg, .ml-color:focus svg {
+    fill: #288be7 !important;
+}
+.lc-color:hover svg, .lc-color:focus svg {
+    fill: #dfc038 !important;
+}
+.fb-color:hover svg, .fb-color:focus svg {
+    fill: #1877F2 !important;
+}
+.ig-color:hover svg, .ig-color:focus svg {
+    fill: #E4305F !important;
+}
+.li-color:hover svg, .li-color:focus svg {
+    fill: #0077B5 !important;
+}
+.yt-color:hover svg, .yt-color:focus svg {
+    fill: #FF0000 !important;
+}
+.wb-color:hover svg, .wb-color:focus svg {
+    fill: #2b837c !important;
+}
+
+
+.footer-card .para-text {
+    margin-bottom: 26px;
+}
+
+.footer-card .detail {
+    display: flex;
+}
+
+.footer-card .detail .text-icon {
+    margin: 0 15px;
+    width: 28px;
+    color: #F1F1F1;
+}
+
+.footer-card a {
+    color: #F1F1F1;
+    text-decoration: none;
+}
+
+.footer-card .small-para-text {
+    position: relative;
+    color: #F1F1F1;
+    text-decoration: none;
+    padding-bottom: 5px;
+    align-self: center;
+}
+
+.footer-card .small-para-text:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color:#F1F1F1;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+}
+.footer-card .small-para-text:hover:before {
+    visibility: visible;
+    transform: scaleX(1);
+}
+
+.footer-end {
+    text-align: center;
+}
+
+@media screen and (max-width: 840px) {
+    .main-footer {
+        display: block;
+    }
+    .footer-card {
+        vertical-align: top;
+        margin: 20px;
+        display: inline-block;
+    }
+}

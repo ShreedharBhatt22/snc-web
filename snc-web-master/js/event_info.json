@@ -1,0 +1,1423 @@
+ {
+    "days": [
+
+        {
+            "day": "1",
+            "events": [
+                {
+                    "event_id": "e1-0",
+                    "club_name": "Offbeat & DebSoc",
+                    "event_name": "Garba Notes",
+                    "event_description": "Offbeat and DebSoc will be collaborating to host a discussion on whether traditional garba tunes should be meddled with to add EDM beats and remixes. The two clubs are coming together to have a debate on the changing and evolving sides of garba music and its impact on how the festival is celebrated in present times. The participants will have a platform to put forward their opinions, and understand how over the years the garba enthusiasts’ approach has evolved.",
+                    "event_link": "",
+                    "register_link": "https://forms.gle/ceJQxjkS22tTeKvj9",
+                    "event_date": "17-10-2020",
+                    "event_time": "06:00 PM - 7:30 PM",
+                    "event_img_path": "assets/images/events/garbaNotes.jpg",
+                    "voting": "",
+                    "platform": "Zoom",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link":"./assets/images/events/images/garba-notes-1.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/garba-notes-2.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/garba-notes-3.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/garba-notes-4.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/garba-notes-5.jpg"
+                        }
+                    ],
+                    "event_completed": "yes",
+                    "event_summary" : "An evening of interesting discussions and riveting topics, went as well as the first night of Navratri usually does! Garba Notes, hosted by Offbeat – the music club and Debsoc – the debate club took off in perfect synchronization with an exciting array of topics to discuss and participants took it away with their well-structured opinions. The debates revolved around topics like involvement of EDM in the traditional Garba scene, the role of fusion in reaching wider audiences, the rampant commercialization of Navratri and its culture and other such concepts.<br/><br/>The presidents and committees of both clubs, kept up with the participants with unending enthusiasm and managed to enrapture upto 60 people who had joined, including various advisors, especially Mr. Abhinav Kapadia, the CFO of PDPU.",
+                    "winner_1": {
+                        "name": "",
+                        "img_path": "./assets/images/members/Krunal-Hindocha.jpg"
+                    },
+                    "winner_2": {
+                        "name": "",
+                        "img_path": "./assets/images/members/Krunal-Hindocha.jpg"
+                    },
+                    "winner_3": {
+                        "name": "",
+                        "img_path": "./assets/images/members/Krunal-Hindocha.jpg"
+                    }
+    
+                },
+                {
+                    "event_id": "e1-1",
+                    "club_name": "Zaayka",
+                    "event_name": "NavThali",
+                    "event_link": "",
+                    "event_description": "A competition-based event where the participants will be asked to make their own form of Navratri thali, where they can include all type of food such as snacks, sweets, farsan. Which can be mixture of different culture or traditionally their culture’s or state’s specialty. They can even give a different name to their thali. The participants have to share their picture/boomerang to Zaayka within the given time frame and three people will be declared as winners on the basis of creativity and skill.",
+                    "register_link": "https://forms.gle/CYVZgCwye26665fR6",
+                    "event_date": "23-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/navthali.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e1-2",
+                    "club_name": "Rang",
+                    "event_name": "Aarti Thaali Decoration",
+                    "event_link": "",
+                    "event_description": "Arti is an auspicious part of our festivals and Navratri is a festival of nine nights to worship goddess kali. Thereby, we organize the Arti Thali Decoration Competition, where the participants will have to decorate the Thali for Arti in all the colors of devotion and creativity of worship. This event will take place on the 8th day of Navaratri. There will be three winners for this event who will be declared by voting in the official S&amp;C website.",
+                    "register_link": "https://forms.gle/DXcXd3HDu4SRiLzP8",
+                    "event_date": "24-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/aartiThaliComp.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e1-3",
+                    "club_name": "Malang & Panache",
+                    "event_name": "Navratri Reels Challenge",
+                    "event_link": "",
+                    "event_description": "Malang &amp; Panache present to you the reels challenge. All the dance crews (Adaah, Camaraderie, Malav Na Mnaniyara, D-Frenetics) dancers will be dressed by Panache through an online mode and the dances will be showcased on Malang’s Instagram as reels. All dancers are welcome. However, dances will only revolve around the idea of Navratri. An event with an amalgamation of authenticity &amp; fashion.",
+                    "register_link": "",
+                    "event_date": "17-10-2020",
+                    "event_time": "All 9 days",
+                    "event_img_path": "assets/images/events/reelsChallenge.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                }
+            ]
+        },
+
+        {
+            "day": "2",
+            "events": [
+                {
+                    "event_id": "e2-0",
+                    "club_name": "Ajia Bunker",
+                    "event_name": "Cards against humanity",
+                    "event_link": "",
+                    "event_description": "Cards against humanity is a game of wits, ingenuity, and creativity. The participants will be given cards that have specific contexts (Navratri and Gujarat themed) along with other cards that have wacky answers to those contexts. The participant who's able to find the most ingenious answer to that particular situation wins the round. Outsmart and outwit your opponents to win this game of creative abstract mental conception.",
+                    "register_link": "https://forms.gle/qsHWxzb7E2RAruK89",
+                    "event_date": "18-10-2020",
+                    "event_time": "06:00 PM - 11:30 PM",
+                    "event_img_path": "assets/images/events/cardsAgainstHumanity.jpg",
+                    "voting": "/SnC_Website/vote.php?en=K0p5TGNBajVCTFBkdTlENmhOUzA0dz09",
+                    "platform": "Google Meet",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": "./assets/images/events/images/cards-against-humanity-2.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/cards-against-humanity-3.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/cards-against-humanity-1.jpg"
+                        }
+                    ],
+
+                    "event_completed": "yes",
+                    "event_summary" : "This year has forced all Navratri enthusiasts to think outside the box and reinvent Gujarat’s favorite festival. Cards Against Humanity by Ajia Bunker is the best example of that. The club presented to us a customized, Indian version of this popular social game. This version also had an added feature, the participants could make their own answers up!<br/><br/>No one can dispute that this second evening of Navratri was made enjoyable with interesting and funny question-answer combinations. It almost felt like we were all back on campus with our friends!",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e2-1",
+                    "club_name": "Zaayka",
+                    "event_name": "NavThali",
+                    "event_link": "",
+                    "event_description": "A competition-based event where the participants will be asked to make their own form of Navratri thali, where they can include all type of food such as snacks, sweets, farsan. Which can be mixture of different culture or traditionally their culture’s or state’s specialty. They can even give a different name to their thali. The participants have to share their picture/boomerang to Zaayka within the given time frame and three people will be declared as winners on the basis of creativity and skill.",
+                    "register_link": "https://forms.gle/CYVZgCwye26665fR6",
+                    "event_date": "23-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/navthali.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e2-2",
+                    "club_name": "Rang",
+                    "event_name": "Aarti Thaali Decoration",
+                    "event_link": "",
+                    "event_description": "Arti is an auspicious part of our festivals and Navratri is a festival of nine nights to worship goddess kali. Thereby, we organize the Arti Thali Decoration Competition, where the participants will have to decorate the Thali for Arti in all the colors of devotion and creativity of worship. This event will take place on the 8th day of Navaratri. There will be three winners for this event who will be declared by voting in the official S&amp;C website.",
+                    "register_link": "https://forms.gle/DXcXd3HDu4SRiLzP8",
+                    "event_date": "24-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/aartiThaliComp.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e2-3",
+                    "club_name": "Malang & Panache",
+                    "event_name": "Navratri Reels Challenge",
+                    "event_link": "",
+                    "event_description": "Malang &amp; Panache present to you the reels challenge. All the dance crews (Adaah, Camaraderie, Malav Na Mnaniyara, D-Frenetics) dancers will be dressed by Panache through an online mode and the dances will be showcased on Malang’s Instagram as reels. All dancers are welcome. However, dances will only revolve around the idea of Navratri. An event with an amalgamation of authenticity &amp; fashion.",
+                    "register_link": "",
+                    "event_date": "17-10-2020",
+                    "event_time": "All 9 days",
+                    "event_img_path": "assets/images/events/reelsChallenge.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                }
+    
+            ]
+        },
+
+        {
+            "day": "3",
+            "events": [
+                {
+                    "event_id": "e3-0",
+                    "club_name": "Spic Macay & Jharokha",
+                    "event_name": "Prashnottari in Navratri",
+                    "event_link": "",
+                    "event_description": "Navratri is celebrated with devotion and utter enthusiasm, but how many of us know the ins and outs of the grand festival? Here is a riveting online quiz, in which you can take part in a team and win amazing cash prizes. So, brush up all your knowledge about Navratri and be there.",
+                    "register_link": "https://forms.gle/LyTwJtRayhpqnYaaA",
+                    "event_date": "19-10-2020",
+                    "event_time": "06:00 PM - 07:30 PM",
+                    "event_img_path": "assets/images/events/prashnottari.jpg",
+                    "voting": "",
+                    "platform": "Zoom",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": "./assets/images/events/images/prashnotari-in-navratri-1.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/prashnotari-in-navratri-2.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/prashnotari-in-navratri-3.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/prashnotari-in-navratri-4.jpg"
+                        }
+                    ],
+
+                    "event_completed": "yes",
+                    "event_summary" : "On the 3 rd day of Navaratri 2020, Jharokha in collaboration with spic macay brought in an exhilarating event and rightly named it \"Prashnottari on Navaratri\".  This event proved that the spirits of the nine nights are here to stay. The quiz had three rounds in total each of them more dynamic than the other.  With 13 teams on board, the event turned out to be a power-packed one. <br/><br/>The quiz touched upon all the spheres which are related to Navratri, be it the general knowledge, the history, or the mythology behind Navratri. For an added touch, some of the questions had audios as well as images through which participants had to guess the correct answer. I think no stones were left unturned in order to make this quiz an engaging one, it was almost as if all of us were together on the campus competing, playing, and having a fun time celebrating everyone's favorite festival.",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e3-1",
+                    "club_name": "Zaayka",
+                    "event_name": "NavThali",
+                    "event_link": "",
+                    "event_description": "A competition-based event where the participants will be asked to make their own form of Navratri thali, where they can include all type of food such as snacks, sweets, farsan. Which can be mixture of different culture or traditionally their culture’s or state’s specialty. They can even give a different name to their thali. The participants have to share their picture/boomerang to Zaayka within the given time frame and three people will be declared as winners on the basis of creativity and skill.",
+                    "register_link": "https://forms.gle/CYVZgCwye26665fR6",
+                    "event_date": "23-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/navthali.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e3-2",
+                    "club_name": "Rang",
+                    "event_name": "Aarti Thaali Decoration",
+                    "event_link": "",
+                    "event_description": "Arti is an auspicious part of our festivals and Navratri is a festival of nine nights to worship goddess kali. Thereby, we organize the Arti Thali Decoration Competition, where the participants will have to decorate the Thali for Arti in all the colors of devotion and creativity of worship. This event will take place on the 8th day of Navaratri. There will be three winners for this event who will be declared by voting in the official S&amp;C website.",
+                    "register_link": "https://forms.gle/DXcXd3HDu4SRiLzP8",
+                    "event_date": "24-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/aartiThaliComp.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e3-3",
+                    "club_name": "Malang & Panache",
+                    "event_name": "Navratri Reels Challenge",
+                    "event_link": "",
+                    "event_description": "Malang &amp; Panache present to you the reels challenge. All the dance crews (Adaah, Camaraderie, Malav Na Mnaniyara, D-Frenetics) dancers will be dressed by Panache through an online mode and the dances will be showcased on Malang’s Instagram as reels. All dancers are welcome. However, dances will only revolve around the idea of Navratri. An event with an amalgamation of authenticity &amp; fashion.",
+                    "register_link": "",
+                    "event_date": "17-10-2020",
+                    "event_time": "All 9 days",
+                    "event_img_path": "assets/images/events/reelsChallenge.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                }
+            ]
+        },
+        
+        {
+            "day": "4",
+            "events": [
+                {
+                    "event_id": "e4-0",
+                    "club_name": "Malang & Step-up",
+                    "event_name": "Power Garba Workshop",
+                    "event_link": "",
+                    "event_description": "Power Garba Workshop is an initiative by two clubs Malav Na Maniyara and Step Up. As navratri is not going to take place this year our main purpose is to keep people motivated and fit by doing power garba. Both the clubs have collaborated and are conducting this event on 20th October’20. The main aim of this collaboration is staying fit with some garba glimpse.",
+                    "register_link": "https://forms.gle/A6FsKU7zv84RzMAM8",
+                    "event_date": "20-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/powerGarba.jpg",
+                    "voting": "",
+                    "platform": "Microsoft Teams",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": "./assets/images/events/images/power-garba-1.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/power-garba-2.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/power-garba-3.jpg"
+                        }
+                    ],
+
+                    "event_completed": "yes",
+                    "event_summary" : "On the 4th day of Navratri, The Fitness Club - Step Up and Malang - The Dance Club of PDPU, collaborated to come up with the ultimate \"Power Garba Workshop\". The event began with a quick warm up session to prepare the participants for the coming energetic choreography. Once everyone settled in with the Garba vibe, the ever awaited dance of the evening was started.<br/><br/>Members of both clubs coordinated to step-wise demonstrate the whole choreography to the song \"Rangtaari\" from the film \"Loveyatri\". As mesmerising the song was, the steps taught to the participants did much justice with the added grace. Each and every step was repeated at least once to make sure the audience was keeping up with the rhythm. All the doubts were resolved timely and it was a lot of fun to learn Garba online with friends from our very homes.<br/><br/>The evening wonderfully came to an end with freestyle Garba on the traditional Gujarati \"Dakhla\". Everyone truly enjoyed the event throughout, the entire session was interactive and it was appreciated how Garba could connect the students of PDPU even through a screen.",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e4-1",
+                    "club_name": "Zaayka",
+                    "event_name": "NavThali",
+                    "event_link": "",
+                    "event_description": "A competition-based event where the participants will be asked to make their own form of Navratri thali, where they can include all type of food such as snacks, sweets, farsan. Which can be mixture of different culture or traditionally their culture’s or state’s specialty. They can even give a different name to their thali. The participants have to share their picture/boomerang to Zaayka within the given time frame and three people will be declared as winners on the basis of creativity and skill.",
+                    "register_link": "https://forms.gle/CYVZgCwye26665fR6",
+                    "event_date": "23-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/navthali.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e4-2",
+                    "club_name": "Rang",
+                    "event_name": "Aarti Thaali Decoration",
+                    "event_link": "",
+                    "event_description": "Arti is an auspicious part of our festivals and Navratri is a festival of nine nights to worship goddess kali. Thereby, we organize the Arti Thali Decoration Competition, where the participants will have to decorate the Thali for Arti in all the colors of devotion and creativity of worship. This event will take place on the 8th day of Navaratri. There will be three winners for this event who will be declared by voting in the official S&amp;C website.",
+                    "register_link": "https://forms.gle/DXcXd3HDu4SRiLzP8",
+                    "event_date": "24-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/aartiThaliComp.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e4-3",
+                    "club_name": "Malang & Panache",
+                    "event_name": "Navratri Reels Challenge",
+                    "event_link": "",
+                    "event_description": "Malang &amp; Panache present to you the reels challenge. All the dance crews (Adaah, Camaraderie, Malav Na Mnaniyara, D-Frenetics) dancers will be dressed by Panache through an online mode and the dances will be showcased on Malang’s Instagram as reels. All dancers are welcome. However, dances will only revolve around the idea of Navratri. An event with an amalgamation of authenticity &amp; fashion.",
+                    "register_link": "",
+                    "event_date": "17-10-2020",
+                    "event_time": "All 9 days",
+                    "event_img_path": "assets/images/events/reelsChallenge.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                }
+    
+            ]
+        },
+        {
+            "day": "5",
+            "events": [
+                {
+                    "event_id": "e5-0",
+                    "club_name": "Dastaan & Malang",
+                    "event_name": "Shaam - A Live Event",
+                    "event_link": "",
+                    "event_description": "Shaam, is an initiative taken together by Daastan and Malang, being the performing arts and dance club of PDPU. With Navratri approaching sooner, the clubs have come up with &quot;Shaam-An Open Mic wherein we provide an online platform to all our aspiring artists to showcase revolving around the theme of Navratri&quot;.",
+                    "register_link": "https://forms.gle/27rgyTS8xqdJ2N6B7",
+                    "event_date": "21-10-2020",
+                    "event_time": "06:00 PM - 07:30 PM",
+                    "event_img_path": "assets/images/events/shaam.jpg",
+                    "voting": "",
+                    "platform": "Zoom",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": "./assets/images/events/images/shaam-day1-1.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/shaam-day1-2.jpg"
+                        },
+                        {
+                            "img_link": "./assets/images/events/images/shaam-day1-3.jpg"
+                        }
+                    ],
+
+                    "event_completed": "yes",
+                    "event_summary" : "On the fifth day of Navaratri, Malang - the dance club of PDPU  in collaboration with Dastaan - the dramatics club of PDPU brought to us an evening full of entertainment as well as enthusiasm and rightly named it SHAAM because this is exactly the kind of shaam all of us were longing for since a long time.<br/><br/>The first day of this two-day extravaganza was power-packed with performances inclusive of mono acts, storytelling, stand-up comedy, and dance.<br/><br/>There were 10 acts in total and each of them successfully triggered a wide variety of emotions and sentiments among all. While the dancers made us groove along with the beats,  the comedians in the house left us in splits and the actors and the storytellers completely mesmerized us with the charm of their words and actions.<br/><br/>One of the things that I appreciated the most was how the event was super interactive as well as easy flowing. With an evening packed with performances each more fascinating than the other, I am sure all of us are super amped up to experience what day 2 of this event has in store for us.",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e5-1",
+                    "club_name": "Zaayka",
+                    "event_name": "NavThali",
+                    "event_link": "",
+                    "event_description": "A competition-based event where the participants will be asked to make their own form of Navratri thali, where they can include all type of food such as snacks, sweets, farsan. Which can be mixture of different culture or traditionally their culture’s or state’s specialty. They can even give a different name to their thali. The participants have to share their picture/boomerang to Zaayka within the given time frame and three people will be declared as winners on the basis of creativity and skill.",
+                    "register_link": "https://forms.gle/CYVZgCwye26665fR6",
+                    "event_date": "23-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/navthali.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e5-2",
+                    "club_name": "Rang",
+                    "event_name": "Aarti Thaali Decoration",
+                    "event_link": "",
+                    "event_description": "Arti is an auspicious part of our festivals and Navratri is a festival of nine nights to worship goddess kali. Thereby, we organize the Arti Thali Decoration Competition, where the participants will have to decorate the Thali for Arti in all the colors of devotion and creativity of worship. This event will take place on the 8th day of Navaratri. There will be three winners for this event who will be declared by voting in the official S&amp;C website.",
+                    "register_link": "https://forms.gle/DXcXd3HDu4SRiLzP8",
+                    "event_date": "24-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/aartiThaliComp.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e5-3",
+                    "club_name": "Malang & Panache",
+                    "event_name": "Navratri Reels Challenge",
+                    "event_link": "",
+                    "event_description": "Malang &amp; Panache present to you the reels challenge. All the dance crews (Adaah, Camaraderie, Malav Na Mnaniyara, D-Frenetics) dancers will be dressed by Panache through an online mode and the dances will be showcased on Malang’s Instagram as reels. All dancers are welcome. However, dances will only revolve around the idea of Navratri. An event with an amalgamation of authenticity &amp; fashion.",
+                    "register_link": "",
+                    "event_date": "17-10-2020",
+                    "event_time": "All 9 days",
+                    "event_img_path": "assets/images/events/reelsChallenge.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                }
+    
+            ]
+        },
+
+        {
+            "day": "6",
+            "events": [
+                {
+                    "event_id": "e6-0",
+                    "club_name": "Dastaan & Malang",
+                    "event_name": "Shaam - A Live Event",
+                    "event_link": "",
+                    "event_description": "Shaam, is an initiative taken together by Daastan and Malang, being the performing arts and dance club of PDPU. With Navratri approaching sooner, the clubs have come up with &quot;Shaam-An Open Mic wherein we provide an online platform to all our aspiring artists to showcase revolving around the theme of Navratri&quot;.",
+                    "register_link": "https://forms.gle/27rgyTS8xqdJ2N6B7",
+                    "event_date": "22-10-2020",
+                    "event_time": "06:00 PM - 07:30 PM",
+                    "event_img_path": "assets/images/events/shaam.jpg",
+                    "voting": "",
+                    "platform": "Zoom",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e6-1",
+                    "club_name": "Rang",
+                    "event_name": "Aarti Thaali Decoration",
+                    "event_link": "",
+                    "event_description": "Arti is an auspicious part of our festivals and Navratri is a festival of nine nights to worship goddess kali. Thereby, we organize the Arti Thali Decoration Competition, where the participants will have to decorate the Thali for Arti in all the colors of devotion and creativity of worship. This event will take place on the 8th day of Navaratri. There will be three winners for this event who will be declared by voting in the official S&amp;C website.",
+                    "register_link": "https://forms.gle/DXcXd3HDu4SRiLzP8",
+                    "event_date": "24-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/aartiThaliComp.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e6-2",
+                    "club_name": "Malang & Panache",
+                    "event_name": "Navratri Reels Challenge",
+                    "event_link": "",
+                    "event_description": "Malang &amp; Panache present to you the reels challenge. All the dance crews (Adaah, Camaraderie, Malav Na Mnaniyara, D-Frenetics) dancers will be dressed by Panache through an online mode and the dances will be showcased on Malang’s Instagram as reels. All dancers are welcome. However, dances will only revolve around the idea of Navratri. An event with an amalgamation of authenticity &amp; fashion.",
+                    "register_link": "",
+                    "event_date": "17-10-2020",
+                    "event_time": "All 9 days",
+                    "event_img_path": "assets/images/events/reelsChallenge.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                }
+    
+            ]
+        },
+
+        {
+            "day": "7",
+            "events": [
+				{
+                    "event_id": "e7-0",
+                    "club_name": "Zaayka",
+                    "event_name": "A Pinch of Yum!",
+                    "event_link": "",
+                    "event_description": "There's something about dessert that hits the sweet tooth differently, but this time there's revamp in the recipe to make your navratri a little less boring and a lot tastier. A perfect combination of something smooth, creamy and deliciously crunchy. Presenting you the fusion of Indian, French and Australian taste in one plate.",
+                    "register_link": "https://forms.gle/3sKnarjfAr8rGXYb8",
+                    "event_date": "23-10-2020",
+                    "event_time": "06:00 PM - 07:30 PM",
+                    "event_img_path": "assets/images/events/yumm.jpg",
+                    "voting": "",
+                    "platform": "Google Meet",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e7-1",
+                    "club_name": "Zaayka",
+                    "event_name": "NavThali",
+                    "event_link": "",
+                    "event_description": "A competition-based event where the participants will be asked to make their own form of Navratri thali, where they can include all type of food such as snacks, sweets, farsan. Which can be mixture of different culture or traditionally their culture’s or state’s specialty. They can even give a different name to their thali. The participants have to share their picture/boomerang to Zaayka within the given time frame and three people will be declared as winners on the basis of creativity and skill.",
+                    "register_link": "https://forms.gle/CYVZgCwye26665fR6",
+                    "event_date": "23-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/navthali.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                {
+                    "event_id": "e7-2",
+                    "club_name": "Malang & Panache",
+                    "event_name": "Navratri Reels Challenge",
+                    "event_link": "",
+                    "event_description": "Malang &amp; Panache present to you the reels challenge. All the dance crews (Adaah, Camaraderie, Malav Na Mnaniyara, D-Frenetics) dancers will be dressed by Panache through an online mode and the dances will be showcased on Malang’s Instagram as reels. All dancers are welcome. However, dances will only revolve around the idea of Navratri. An event with an amalgamation of authenticity &amp; fashion.",
+                    "register_link": "",
+                    "event_date": "17-10-2020",
+                    "event_time": "All 9 days",
+                    "event_img_path": "assets/images/events/reelsChallenge.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                }
+                
+    
+            ]
+        },
+
+        {
+            "day": "8",
+            "events": [
+				{
+                    "event_id": "e8-0",
+                    "club_name": "S&C",
+                    "event_name": "Trivia Night Navratri Edition",
+                    "event_link": "",
+                    "event_description": "Come test your Navratri knowledge on the auspicious day of Ashtami. Round one will consist of trivia quiz and round two will be in Pictionary format. So, brush up your trivia and drawing skills and go head to head with your college buddies!",
+                    "register_link": "https://forms.gle/UMWecN2xq8BsygC66",
+                    "event_date": "24-10-2020",
+                    "event_time": "06:00 PM - 07:30 PM",
+                    "event_img_path": "assets/images/events/triviaNight.jpg",
+                    "voting": "",
+                    "platform": "Zoom",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+                
+                {
+                    "event_id": "e8-1",
+                    "club_name": "Rang",
+                    "event_name": "Aarti Thaali Decoration",
+                    "event_link": "",
+                    "event_description": "Arti is an auspicious part of our festivals and Navratri is a festival of nine nights to worship goddess kali. Thereby, we organize the Arti Thali Decoration Competition, where the participants will have to decorate the Thali for Arti in all the colors of devotion and creativity of worship. This event will take place on the 8th day of Navaratri. There will be three winners for this event who will be declared by voting in the official S&amp;C website.",
+                    "register_link": "https://forms.gle/DXcXd3HDu4SRiLzP8",
+                    "event_date": "24-10-2020",
+                    "event_time": "12:00 AM - 11:59 PM",
+                    "event_img_path": "assets/images/events/aartiThaliComp.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+
+                
+
+                {
+                    "event_id": "e8-2",
+                    "club_name": "Malang & Panache",
+                    "event_name": "Navratri Reels Challenge",
+                    "event_link": "",
+                    "event_description": "Malang &amp; Panache present to you the reels challenge. All the dance crews (Adaah, Camaraderie, Malav Na Mnaniyara, D-Frenetics) dancers will be dressed by Panache through an online mode and the dances will be showcased on Malang’s Instagram as reels. All dancers are welcome. However, dances will only revolve around the idea of Navratri. An event with an amalgamation of authenticity &amp; fashion.",
+                    "register_link": "",
+                    "event_date": "17-10-2020",
+                    "event_time": "All 9 days",
+                    "event_img_path": "assets/images/events/reelsChallenge.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                }
+            ]
+        },
+
+        {
+            "day": "9",
+            "events": [
+                {
+                    "event_id": "e9-0",
+                    "club_name": "Offbeat & Rotoract",
+                    "event_name": "ROTORAC - TUNE",
+                    "event_link": "",
+                    "event_description": "This Navratri, with the world going virtual, Offbeat in collaboration with Rotaract presents to you Navratri themed musical trivia. It will be an interactive multiple rounds session with the participants which will keep them on there and also support the cause and society. The participants can register themselves with a minimal fee of 20 which will be donated to a charity.",
+                    "register_link": "https://forms.gle/qk1oc82pBrUFxhrT6",
+                    "event_date": "25-10-2020",
+                    "event_time": "06:00 PM - 07:30 PM",
+                    "event_img_path": "assets/images/events/rotoractune.jpg",
+                    "voting": "",
+                    "platform": "Zoom",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                },
+
+                {
+                    "event_id": "e9-1",
+                    "club_name": "Malang & Panache",
+                    "event_name": "Navratri Reels Challenge",
+                    "event_link": "",
+                    "event_description": "Malang &amp; Panache present to you the reels challenge. All the dance crews (Adaah, Camaraderie, Malav Na Mnaniyara, D-Frenetics) dancers will be dressed by Panache through an online mode and the dances will be showcased on Malang’s Instagram as reels. All dancers are welcome. However, dances will only revolve around the idea of Navratri. An event with an amalgamation of authenticity &amp; fashion.",
+                    "register_link": "",
+                    "event_date": "17-10-2020",
+                    "event_time": "All 9 days",
+                    "event_img_path": "assets/images/events/reelsChallenge.jpg",
+                    "voting": "",
+                    "platform": "",
+                    "competition": "no",
+                    "event_screenshots": [
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        },
+                        {
+                            "img_link": ""
+                        }
+                    ],
+
+                    "event_completed": "no",
+                    "event_summary" : "",
+
+                    "winner_1": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_2": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    },
+                    "winner_3": {
+                        "name": "Lorem Ipsum",
+                        "img_path": ""
+                    }
+                }
+            ]
+        }        
+    
+    ]
+}

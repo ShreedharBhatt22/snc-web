@@ -1,0 +1,75 @@
+{
+    "main": [
+        {
+            "name": "Bhuvan Gandhi",
+            "dsgn": "Web Head",
+            "image": "./assets/images/webteam/Bhuvan-Gandhi.jpg"
+        },
+        {
+            "name": "Shreedhar Bhatt",
+            "dsgn": "Project In-charge",
+            "image": "./assets/images/webteam/Shreedhar-Bhatt.jpg"
+        },
+        {
+            "name": "Jay Gohil",
+            "dsgn": "Project Adviser",
+            "image": "./assets/images/webteam/Jay-Gohil.jpg"
+        },
+        {
+            "name": "Vishwas Ganatra",
+            "dsgn": "Project Adviser",
+            "image": "./assets/images/webteam/Vishwas-Ganatra.jpg"
+        }
+    ],
+    "frontend": [
+        {
+            "name": "Ketul Chhaya",
+            "dsgn": "Frontend developer",
+            "image": "./assets/images/webteam/Ketul-Chhaya.jpg"
+        },
+        {
+            "name": "Niyati Shah",
+            "dsgn": "Frontend developer",
+            "image": "./assets/images/webteam/Niyati-Shah.jpg"
+        },
+        {
+            "name": "Smit Vekaria",
+            "dsgn": "Frontend developer",
+            "image": "./assets/images/webteam/Smit-Vekaria.jpg"
+        }
+    ],
+    "backend": [
+        {
+            "name": "Atriya Patel",
+            "dsgn": "Backend developer",
+            "image": "./assets/images/webteam/Atriya-Patel.jpg"
+        },
+        {
+            "name": "Hansil Jasoliya",
+            "dsgn": "Backend developer",
+            "image": "./assets/images/webteam/Hansil-Jasoliya.jpg"
+        },
+        {
+            "name": "Jay Patel",
+            "dsgn": "Full stack developer",
+            "image": "./assets/images/webteam/Jay-Patel.jpg"
+        }
+    ],
+    "backend2": [
+        {
+            "name": "Dhwani Dholaria",
+            "dsgn": "Backend developer",
+            "image": "./assets/images/webteam/Dhwani-Dholaria.jpg"
+        },
+        {
+            "name": "Parn Desai",
+            "dsgn": "Backend developer",
+            "image": "./assets/images/webteam/Parn-Desai.jpg"
+        },
+        {
+            "name": "Vasu Gondaliya",
+            "dsgn": "Backend developer",
+            "image": "./assets/images/webteam/Vasu-Gondaliya.jpg"
+        }
+    ]
+}

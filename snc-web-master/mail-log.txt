@@ -1,0 +1,68 @@
+2020-10-09 10:52:44 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.2020-10-09 11:09:50 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.2020-10-09 11:11:07 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.\n\n2020-10-09 11:12:17 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.\n\n2020-10-09 11:12:57 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-09 11:16:45 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-09 11:17:23 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-09 11:19:16 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-09 11:19:19 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-09 11:19:20 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-09 11:19:29 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-09 11:20:20 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-10 12:03:51 am -> error -> phpmailerException: Invalid address:  (addAnAddress to):  in B:\xampp\htdocs\SnC_Website\include\class.phpmailer.php:855
+Stack trace:
+#0 B:\xampp\htdocs\SnC_Website\include\class.phpmailer.php(795): PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 B:\xampp\htdocs\SnC_Website\feedback-script.php(62): PHPMailer->addAddress(NULL, NULL)
+#2 {main}\nWhile sending mail on .
+
+2020-10-10 12:04:13 am -> error -> phpmailerException: Invalid address:  (addAnAddress to):  in B:\xampp\htdocs\SnC_Website\include\class.phpmailer.php:855
+Stack trace:
+#0 B:\xampp\htdocs\SnC_Website\include\class.phpmailer.php(795): PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 B:\xampp\htdocs\SnC_Website\feedback-script.php(62): PHPMailer->addAddress(NULL, NULL)
+#2 {main}\nWhile sending mail on .
+
+2020-10-10 12:07:09 am -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-10 12:39:29 am -> Feedback confiramation mail is sent to bmg12501@gmail.com.
+
+2020-10-10 12:39:49 am -> Feedback confiramation mail is sent to bmg12501@gmail.com.
+
+2020-10-10 03:18:23 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-10 03:21:01 pm -> Feedback confiramation mail is sent to bhuvan12501@gmail.com.
+
+2020-10-10 04:44:04 pm -> Feedback confiramation mail is sent to bmg12501@gmail.com.
+
+2020-10-10 04:44:59 pm -> Feedback confiramation mail is sent to bmg12501@gmail.com.
+
+2020-10-10 04:46:34 pm -> Feedback confiramation mail is sent to bmg12501@gmail.com.
+
+2020-10-10 04:55:32 pm -> Feedback confiramation mail is sent to bmg12501@gmail.com.
+
+2020-10-10 04:56:59 pm -> Feedback confiramation mail is sent to bmg12501@gmail.com.
+
+2020-10-10 04:59:20 pm -> Feedback confiramation mail is sent to bmg12501@gmail.com.
+
+2020-10-11 10:12:39 am -> Feedback confiramation mail is sent to ayush.see18@sot.pdpu.ac.in.
+
+2020-10-11 11:00:39 am -> Feedback confiramation mail is sent to suvagia.jenith@gmail.com.
+
+2020-10-11 01:54:19 pm -> Feedback confiramation mail is sent to pooja.ajmera@pdpu.ac.in.
+
+2020-10-11 02:31:39 pm -> Feedback confiramation mail is sent to jahnavi.sce18@sot.pdpu.ac.in.
+
+2020-10-11 02:56:37 pm -> Feedback confiramation mail is sent to meshva.pce18@sot.pdpu.ac.in.
+
+2020-10-11 04:58:41 pm -> Feedback confiramation mail is sent to neel.kbcom18@sls.pdpu.ac.in.
+
+2020-10-11 07:03:31 pm -> Feedback confiramation mail is sent to krunal.hbb18@sls.pdpu.ac.in.
+
+2020-10-13 01:37:43 pm -> Feedback confiramation mail is sent to j@gmail.com.
+
+2020-10-13 01:37:55 pm -> Feedback confiramation mail is sent to j@gmail.com.
+

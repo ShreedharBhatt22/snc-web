@@ -1,0 +1,122 @@
+.card-slider .card-deck{
+    position: relative;
+     display: flex;
+     justify-content: Center;
+     width: 98%;
+     margin: auto;
+}
+.card-slider{
+	position:relative;
+}
+.card-slider .tns-controls{
+	display:block !important;
+}
+.card-slider .tns-controls button{
+	color:black;
+}
+.card-slider .card{
+    width: 3.1%;
+    transition: 0.5s ease;
+    flex:inherit !important;
+    position: relative;
+    right: 0;
+    cursor: pointer;
+    transition: 0.5s ease;
+    box-shadow: 0 10px 18px 0 rgba(0,0,0,0.2);
+    background-color: #f1f1f1;
+    left: 0;
+}
+.card-slider .left-move{
+    left: auto;
+    right: 350px;
+}
+.card-slider .right-move{
+    right: auto;
+    left:350px;
+}
+.card-slider .card-container{
+    overflow: hidden;
+    margin: 20px;
+    padding-bottom: 26px;
+}
+.card-slider .card-slide{
+    top: 0%;
+    width: 999%;
+    display: flex;
+    left: 0%;
+    transition: 0.5s ease;
+}
+.card-slider .card-deck  .button a span{
+    color: #000000;
+    transition: 0.5s ease;
+}
+.card-slider .card-deck .button a span:hover{
+    color: red;
+}
+.card-slider .card-deck .button-left{
+    left:2%;
+}
+.card-slider .card-deck  .button-right{
+    right:0%;
+}
+.card-slider .card-deck .card .image-container{
+    position: relative;
+}
+.card-slider .card-deck .card .event-name{
+    background-color: rgba(0,0,0,0.3);
+    position: absolute;
+    top: 89%;
+    width: 100%;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 5px 0px;
+    transform: translateY(-50%);
+}
+.card-slider .card-deck .card .event-location .location span{
+    font-size: 20px;
+}
+
+
+@media only screen and (max-width:500px){
+    .img-slider .slider-image img{
+        height: 200px;
+    }
+    .img-slider .slider-image .slider-text{
+        font-size: 0.7rem;
+        bottom: 25%;
+        text-transform: capitalize;
+    }
+    .event-tab .event-container .card .card-body{
+        padding: 0.5rem;
+    }
+    .event-tab .event-container .card .date-tab , .event-tab .event-container .card .day-tab{
+        font-size: 0.9rem;
+    }
+    .event-tab .event-container .card span{
+        bottom: -26%;
+    }
+}
+@media only screen and (max-width: 1190px) {
+    .card-slider .card {
+        width: 3.04%;
+    }
+}
+@media only screen and (max-width: 709px) {
+    .card-slider .card{
+        width: 4.5%;
+    }
+}
+@media only screen and (max-width:576px) {
+    .card-slider .card {
+        margin-right: 15px;
+        margin-bottom: 0;
+        margin-left: 15px;
+        width: 9.4%;
+    }
+    .card-slider .tns-controls button {
+		color:white;
+	}
+}

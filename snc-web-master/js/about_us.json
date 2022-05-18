@@ -1,0 +1,166 @@
+{
+    "general-secretary": [
+        {
+            "name": "Ayush Sodha",
+            "department": "General Secretary",
+            "phone": "+91 81606 01780",
+            "image": "./assets/images/members/Ayush-Sodha.jpg"
+        }
+    ],
+    "treasurer": [
+        {
+            "name": "Krunal Hindocha",
+            "department": "Treasurer",
+            "phone": "+91 87582 99099",
+            "image": "./assets/images/members/Krunal-Hindocha.jpg"
+        }
+    ],
+    "logistic-management": [
+        {
+            "name": "Jenith Suvagia",
+            "department": "Logistics",
+            "phone": "+91 94097 84288",
+            "image": "./assets/images/members/Jenith-Suvagia.jpg"
+        },
+        {
+            "name": "Pranjal Patel",
+            "department": "Logistics",
+            "phone": "+91 70963 86274",
+            "image": "./assets/images/members/Pranjal-Patel.jpg"
+        },
+        {
+            "name": "Anuj Agrawal",
+            "department": "Logistics",
+            "phone": "+91 73590 45414",
+            "image": "./assets/images/members/Anuj-Agrawal.jpg"
+        }
+
+    ],
+    "sponsorship": [
+        {
+            "name": "Parth Thhakar",
+            "department": "Sponsorship",
+            "phone": "+91 73596 14381",
+            "image": "./assets/images/members/Parth-Thakkar.jpg"
+        },
+        {
+            "name": "Meet Sanghvi",
+            "department": "Sponsorship",
+            "phone": "+91 99250 12312",
+            "image": "./assets/images/members/Meet-Sanghvi.jpg"
+        }
+    ],
+    "event-management": [
+        {
+            "name": "Miti Upadhyay",
+            "department": "Event Management",
+            "phone": "",
+            "image": "./assets/images/members/Miti-Upadhyay.jpg"
+        },
+        {
+            "name": "Veera Solanki",
+            "department": "Event Management",
+            "phone": "",
+            "image": "./assets/images/members/Veera-Solanki.jpg"
+        },
+        {
+            "name": "Yaxit Panchal",
+            "department": "Event Management",
+            "phone": "",
+            "image": "./assets/images/members/Yaxit-Panchal.jpg"
+        },
+        {
+            "name": "Samarth Sheth",
+            "department": "Event Management",
+            "phone": "",
+            "image": "./assets/images/members/Samarth-Sheth.jpg"
+        },
+        {
+            "name": "Aashi Chhatiawala",
+            "department": "PR & Club Coordinator",
+            "phone": "",
+            "image": "./assets/images/members/Aashi-Chhatiawala.jpg"
+        }
+    ],
+    "publicity": [
+        {
+            "name": "Megh Shah",
+            "department": "Publicity",
+            "phone": "",
+            "image": "./assets/images/members/Megh-Shah.jpg"
+        },
+        {
+            "name": "Kajal Pavagadhi",
+            "department": "Publicity",
+            "phone": "",
+            "image": "./assets/images/members/Kajal-Pavagadhi.jpg"
+        },
+        {
+            "name": "Vimarsh Chaudhary",
+            "department": "Publicity",
+            "phone": "",
+            "image": "./assets/images/members/Vimarsh-Chowdhary.jpg"
+        }
+    ],
+    "hospitality": [
+        {
+            "name": "Keyur Patel",
+            "department": "Hospitality",
+            "phone": "",
+            "image": "./assets/images/members/Keyur-Patel.jpg"
+        },
+        {
+            "name": "Akshat Jain",
+            "department": "Hospitality",
+            "phone": "",
+            "image": "./assets/images/members/Akshat-Jain.jpg"
+        },
+        {
+            "name": "Vraj Patel",
+            "department": "Hospitality",
+            "phone": "",
+            "image": "./assets/images/members/Vraj-Patel.jpg"
+        }
+    ],
+    "graphic-designing": [
+        {
+            "name": "Kenil Patel",
+            "department": "Graphics Designing",
+            "phone": "",
+            "image": "./assets/images/members/Kenil-Patel.jpg"
+        },
+        {
+            "name": "Nisarg Patel",
+            "department": "Graphics Designing",
+            "phone": "",
+            "image": "./assets/images/members/Nisarg-Patel.jpg"
+        },
+        {
+            "name": "Parth Vardhani",
+            "department": "Design",
+            "phone": "",
+            "image": "./assets/images/members/Parth-Vardhani.jpg"
+        }
+    ],
+
+    "documentation": [
+        {
+            "name": "Parthvi Modi",
+            "department": "Documentation",
+            "phone": "",
+            "image": "./assets/images/members/Parthvi-Modi.jpg"
+        },
+        {
+            "name": "Aakanksha Jetley",
+            "department": "Documentation",
+            "phone": "",
+            "image": "./assets/images/members/Aakanksha-Jetley.jpg"
+        },
+        {
+            "name": "Stuti Nair",
+            "department": "Documentation",
+            "phone": "",
+            "image": "./assets/images/members/Stuti-Nair.jpg"
+        }
+    ]
+}

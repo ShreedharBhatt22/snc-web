@@ -1,0 +1,113 @@
+.btn {
+    border: none;
+    transition: ease-in 0.2s;
+    line-height: normal;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.btn-small {
+    padding: 6px 12px;
+}
+
+/* Links Button Style */
+.btn-link {
+    color: #000;
+    text-transform: capitalize;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.btn-link:hover, .btn-link:focus, .btn-link:active {
+    color: #FFF;
+    background: #d11bb3;
+    /* background: -moz-linear-gradient(to bottom right, #e259a3, #f75288);
+	background: -webkit-linear-gradient(to bottom right, #e259a3, #f75288); */
+    background: linear-gradient(to bottom right, #e259a3, #f75288);
+    text-decoration: none;  
+}
+.btn-link:focus {
+    box-shadow: 0 0 0 0.2rem rgba(218, 43, 145, 0.25);
+}
+/* extra link btn */
+.btn-grad {background-image: linear-gradient(to bottom right, #E259a3 0%, #F75288  100%)}
+.btn-grad {
+   margin: 10px;
+   padding: 15px 15px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: ease-in 0.5s;
+/*   background-size: 200% auto;*/
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 50px;
+   display: block;
+ }
+
+ .btn-grad:hover {
+	background-image: linear-gradient(to top left, #E259a3 0%, #F75288  100%);
+   /*background-position: right center; change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+
+/* Normal Button Style */
+.btn-normal {
+    background:#d11bb3;
+    background: -moz-linear-gradient(to bottom right, #e259a3, #f75288);
+	background: -webkit-linear-gradient(to bottom right, #e259a3, #f75288);
+    background: linear-gradient(to bottom right, #e259a3, #f75288);
+    color: #ffffff;
+    border-radius: 20px;
+    /* text-transform: capitalize; */
+}
+.btn-normal:hover, .btn-normal:focus {
+    background-color: #ffffff;
+    background: -moz-linear-gradient(to top left, #F5F5F5, #F1F1F1);
+    background: -webkit-linear-gradient(to top left,#F5F5F5, #F1F1F1);
+    background: linear-gradient(to top left,#F5F5F5, #F1F1F1);
+    color: #e259a3;
+    box-shadow: 6px 10px 18px -10px rgb(0, 0, 0, 0.2);
+}
+.btn-normal:focus {
+    box-shadow: 0 0 0 0.2rem rgba(218, 43, 145, 0.25);
+}
+
+/* Semi-Transparent Button style */
+.btn-semi {
+    border-radius: 5px;
+    background-color: rgba(124, 124, 124, 0.7);
+    color: #ffffff;
+    padding: 10px 20px;
+}
+.btn-semi:hover, .btn-semi:focus {
+    background-color: rgba(124, 124, 124, 0.5);
+    color: #ffffff;  
+}
+.btn-semi:focus {
+    box-shadow: 0 0 0 0.2rem rgba(36, 36, 36, 0.25);
+}
+
+/* Live (Danger) Button Style */
+.btn-danger{
+    text-transform: uppercase;
+    font-weight: bolder;
+    width: 80px;
+    border-radius: 8px;
+}
+
+/* Time Button Style */
+.btn-time {
+    text-transform: uppercase;
+    background: #4b4b4b;
+    color: #ffffff;
+    border-radius: 20px;
+    opacity: 0.7;
+}
+.btn-time:hover, .btn-time:focus {
+    opacity: 1;
+    color: #ffffff;
+}
+.btn-time:focus {
+    box-shadow: 0 0 0 0.2rem rgba(36, 36, 36, 0.25);
+}
+/* End of s&c_buttons SS */

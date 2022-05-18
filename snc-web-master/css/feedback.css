@@ -1,0 +1,111 @@
+/* Contact details */
+.feedback-container {
+    margin-top: 160px;
+    text-align: left;
+    padding: 10px;
+    display: flex;
+}
+
+.feedback-section {
+    margin: 20px;
+    /* display: inline-block; */
+    flex: 1 1 auto;
+    text-align: left;
+    width: 40%;
+    min-width: max-content;
+    vertical-align: top;
+}
+
+/* .contact-item a {
+    color: #444;
+    text-decoration: none;
+}
+
+.contact-item a:hover {
+    color: #666;
+    text-decoration: none;
+}
+
+.contact-item svg {
+    width: 28px;
+    fill: #444;
+}
+
+.contact-item .material-icons {
+    font-size: 28px;
+    color: #444;
+}
+
+.feedback-container ul {
+    margin: 0;
+    padding: 0;
+}
+
+.feedback-container .contact-list li {
+    padding: 10px;
+}
+
+.contact-item > a {
+    display: flex;
+    width: max-content;
+    position: relative;
+}
+.contact-item > a > span {
+    text-align: left;
+    flex: 1 1 auto;
+    align-self: center;
+    margin: 8px;
+} */
+
+
+/* Feedback form */
+
+.ratings {
+    width: max-content;
+}
+
+.ratings img {
+    width: 40px;
+    align-items: center;
+    display: inline-block;
+}
+.ratings {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.ratings input {
+    display: none;
+}
+.ratings label {
+    position: relative;
+    width: 60px;
+    cursor: pointer;
+    filter: grayscale(50%);
+    text-align: center;
+    opacity: 0.6;
+}
+.ratings:hover label {
+    width: 60px;
+    opacity: 1;
+}
+.ratings input:hover + label, .ratings input:checked + label{
+    filter: grayscale(0);
+    opacity: 1;
+    width: 60px;
+    transform: scale(1.05);
+}
+
+
+@media screen and (max-width: 800px) {
+    .feedback-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .feedback-section {
+        align-self: center;
+    }
+}

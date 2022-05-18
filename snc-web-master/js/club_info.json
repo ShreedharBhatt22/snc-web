@@ -1,0 +1,135 @@
+{
+    "clubs": [
+        {
+            "id": "0",
+            "name": "Ajia Bunker",
+            "logo": "./assets/images/clubs/ajia_bunker_logo.jpg",
+            "president_name": "Djacilynne Angelle Dy",
+            "small_desc": "Japanese and Korean Culture Club of PDPU",
+            "description":"Ajia Bunker is PDPU’s Japanese and Korean culture club. As the Japanese and Korean pop culture influences youth worldwide withAnime, Manga, Manhwa, Jpop and Kpop. We realised the importance of these vibrant and unique cultures and decided to work towards establishing a club that understands the importance of having different cultures in the same campus.",
+            "instagram_handle":"ajiabunker_pdpu",
+            "instagram_handle_link": "https://www.instagram.com/ajiabunker_pdpu/",
+            "members": "15" 
+        },
+
+        {
+            "id": "1",
+            "name": "Daastan",
+            "logo": "./assets/images/clubs/daastan_logo.jpg",
+            "president_name": ["Atharva Bhardwaj", " Rushi Sutariya"],
+            "small_desc": "The Dramatics Club of PDPU",
+            "description": "Dastaan is the dramatics club of PDPU, is one of such efforts to give everybody an opportunity to re-invent their talent on the stage. As the name suggests, our club aims at bringing a refreshing wind of change all around its presence through theatrical activities that take place in PDPU Campus all around the year.",
+            "instagram_handle": "daastan.pdpu",
+            "instagram_handle_link": "https://www.instagram.com/daastan.pdpu/",
+            "members": "23"
+        },
+
+        {
+            "id": "2",
+            "name": "DEBSOC",
+            "logo": "./assets/images/clubs/debsoc_logo.jpg",
+            "president_name": "Sanjana Varanasi",
+            "small_desc": "The Debating Club of PDPU",
+            "description": "The purpose of the Debate Society is to provide an open and extensive platform for dialogue and debate for all students of the institutes of PDPU. Debating enables a person to be well informed on a variety of topics. It teaches one to listen, analyse the facts, forming an opinion and convey them articulately. These skills are necessary to hone for various situations in life. The Society’s sessions will focus on developing analytical thinking which will  enhance the student’s academic experience in their core studies, and on providinga productive and engaging outlet for their thoughts.",
+            "instagram_handle": "debsoc.pdpu",
+            "instagram_handle_link": "https://www.instagram.com/debsoc.pdpu/",
+            "members": "30"
+        },
+
+        {
+            "id": "3",
+            "name": "Jharokha",
+            "logo": "./assets/images/clubs/jharokha_logo.jpg",
+            "president_name": "Chailcy Patel",
+            "small_desc": "The Literature Club of PDPU",
+            "description": "Literature is the essence of humanity. Jharokha, as the Literature Club, believes that literature, as the form of art, crosses the conventional boundaries that are assumed to exist. The excitement and comfort of a good book, a riveting film, an entertaining Netflix original or an energetic rock performance - it&#39;s all art, and we love it all! We trust in liberty, creativity and growth. Through our social media presence, our many workshops, open mics and competitions throughout the academic year, we create a community of writers, speakers and thinkers who want to share their happiness with others and connect them with enthusiasts and professionals. A space for you, of you and by you.",
+            "instagram_handle": "jharokha_pdpu",
+            "instagram_handle_link": "https://www.instagram.com/jharokha_pdpu/",
+            "members": "50"
+        },
+
+        {
+            "id": "4",
+            "name": "Malang",
+            "logo": "./assets/images/clubs/malang_logo.jpg",
+            "president_name": "Priyam Dholiya",
+            "small_desc": "The Dance Club of PDPU",
+            "description": "मलंग aims at bringing a refreshing wind of change all around its presence through dance activities that go on in the PDPU Campus all around the year. The club will organise events for cultivating different skills. Various kinds of dances will be practiced, like Classical, Folk and Western. मलंग will also participate in inter-college/inter- university events and brings glory to PDPU. Time and again workshops will be arranged for all who are interested. The club aims on expanding through increased number of activities and enhanced involvement of students at the campus.",
+            "instagram_handle": "malang.pdpu",
+            "instagram_handle_link": "https://www.instagram.com/malang.pdpu/",
+            "members": "8"
+        },
+
+        {
+            "id": "5",
+            "name": "Offbeat",
+            "logo": "./assets/images/clubs/offbeat_logo.jpg",
+            "president_name": "Sanhit Mehta",
+            "small_desc": "The Music Club of PDPU",
+            "description": "Offbeat is the music club of PDPU. What do we do as a music club? Get together and just jam? Not really. We invite people to come together and showcase their musical skills. Offbeat provides a platform to the rising musical talent of the students of PDPU, and outside as well. We organize different workshops, competitions, jamming sessions in PDPU. Once a year, we organize Saaz - The intra-college music competition and Melodia - the inter-college music competition, in which students from various colleges come to PDPU and exhibit their musical brilliance. The basic 6 categories in which the participants can be divided are - Indian Solo, Western Solo, Duet, Group, Instrumental and Original Composition. Not only that, but we also organize a nationwide battle of bands in which bands from all around the nation come and showcase their musical gifts.",
+            "instagram_handle": "offbeat.pdpu",
+            "instagram_handle_link": "https://www.instagram.com/offbeat.pdpu/",
+            "members": "75"
+        },
+
+        {
+            "id": "6",
+            "name": "Panache",
+            "logo": "./assets/images/clubs/panache_logo.jpg",
+            "president_name": "Rishabh Gandhi",
+            "small_desc": "The Fashion and Styling Club of PDPU",
+            "description": "PANACHE works to incorporate a little bit of style in everyone who has walked through the gates of the university. We believe fashion is something that comes naturally to everyone; all we do is help them express it better thereby helping them express themselves better. We wish to develop skills and instil confidence in men and women across campus and help them find joy is boldness, passion, grooming and thus build a better intrapersonal connection.",
+            "instagram_handle": "panachepdpu",
+            "instagram_handle_link": "https://instagram.com/panachepdpu/",
+            "members": "31"
+        },
+
+        {
+            "id": "7",
+            "name": "RANG",
+            "logo": "./assets/images/clubs/rang_logo.jpg",
+            "president_name": "Parth Vardhani",
+            "small_desc": "The Fine Arts Club of PDPU",
+            "description": "RANG is the Fine Arts club of Pandit Deendayal Petroleum University. It is a part of the Social and Cultural committee. RANG plays an important role in all the college fests conducted by the university. We also do decoration work in the events like Republic Day, Independence Day, Kite Flying Day etc. RANG decorates the whole university during these events. RANG transforms the whole university’s look into a shining and glowing one. Coming to the decoration part, people can see the large colourful posters, 3D artworks, canopies, paper lamps, colourful rangolis during these events. RANG also organises its own events so that people can showcase their artistic skills and talent. It also collaborates with other clubs for the competitions or events. Different workshops are also being organised during the whole year i.e. Knife painting workshop, Card making workshop, Fluid art workshop etc. This year, due to this pandemic RANG has decided to do online competitions. It has already organised three competitions, The Art Studio, Poster making competition, Cinem-ART-ography.",
+            "instagram_handle": "rang.pdpu",
+            "instagram_handle_link": "https://www.instagram.com/rang.pdpu/",
+            "members": "70"
+        },
+
+        {
+            "id": "8",
+            "name": "Rotaract",
+            "logo": "./assets/images/clubs/rotaract_logo.jpg",
+            "president_name": "Devanshi Jitesh Babla",
+            "small_desc": "Rotaract PDPU",
+            "description": "Our main goal is to boost the working of club in this university.This year Rotaract will also make sure to include events that not only push members and others towards a cleaner environment but also towards a more personalized society and professional growth. While inculcating regular social awareness events, Rotaract will also aim at other activities which will aim at publicizing the club in ways that have never been used before so to be able to reach mass of public and create a impact.",
+            "instagram_handle": "rotaractclub_pdpu",
+            "instagram_handle_link": "https://instagram.com/rotaractclub_pdpu/",
+            "members": "15"
+        },
+
+        {
+            "id": "9",
+            "name": "Spic Macay",
+            "logo": "./assets/images/clubs/spic_macay_logo.jpg",
+            "president_name": "Shivika Mathur",
+            "small_desc": "The Indian Classical Music &amp; Cultural Club of PDPU",
+            "description": "SPIC MACAY is a nationwide voluntary movement that organizes programs of classical music and dance, folk arts, crafts, yoga, classic cinema screenings, heritage walks, etc. inside school and college campuses throughout the world to make students more aware about Indian and world heritage. PDPU chapter of SPIC MACAY promotes Indian Classical Music &amp; Culture through various activities.",
+            "instagram_handle": "spicmacay_pdpu",
+            "instagram_handle_link": "https://www.instagram.com/spicmacay_pdpu/",
+            "members": "15"
+        },
+
+        {
+            "id": "10",
+            "name": "Zaayka",
+            "logo": "./assets/images/clubs/zaayka_logo.jpg",
+            "president_name": "Ritu Shahdadpuri",
+            "small_desc": "The Food Club of PDPU",
+            "description": "Pandit Deendayal Petroleum University offers students to execute their ideas and put them into action. One of these arenas are student clubs. Zaayka the food club of PDPU took birth when like-minded food enthusiasts, with a passion of serving the society and promoting ways people can look after their health came together.",
+            "instagram_handle": "zaayka_pdpu_",
+            "instagram_handle_link": "https://instagram.com/zaayka_pdpu_/",
+            "members": "52"
+        }
+    ]
+}

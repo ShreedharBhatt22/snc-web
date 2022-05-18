@@ -1,0 +1,177 @@
+.modal-open {
+    padding-right: 0px !important;
+}
+
+.modal-body {
+    background-color: rgba(230, 230, 230, 0.95);
+    z-index: 2000;
+}
+
+.modal-img {
+    text-align: center;
+}
+
+.modal-club-name {
+    margin: 40px 0 20px;
+}
+
+.modal-club-desc {
+    margin: 15px;
+    line-height: 2px;
+}
+
+.modal-club-logo {
+    width: 40%;
+    height: 40%;
+}
+
+.thumbnail {
+    background: transparent !important;
+    border: none !important;
+}
+
+.modal-club-members, .modal-club-follow {
+    margin: 20px 0 0;
+    text-align: center;
+    width: max-content;
+    /* float: left; */
+}
+
+.modal-insta-link {
+    color: #000000;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.modal-body .text-icon svg {
+    width: 28px;
+    fill: #E4305F;
+}
+
+.modal-body a {
+    cursor: pointer;
+    /* color: #444; */
+    /* margin-left: 5px; */
+    vertical-align: top;
+}
+
+/* .modal-body a:hover, .modal-body a:focus {
+    color: #666;
+} */
+
+.title > span > img {
+    transform: rotate(-30deg);
+    padding-bottom: 8px;
+    padding-right: 2px;
+}
+
+.modal-screenshot-div {
+    max-width: 360px;
+    margin: 20px;
+    display: inline-block;
+    box-shadow: 0 10px 18px 0 rgba(0,0,0,0.2);
+}
+
+.modal-screenshot-div img {
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .modal-body .modal-club-follow, .modal-body .modal-club-members {
+        width: 100%;
+        text-align: center;
+        float: none;
+    }
+}
+
+/* Winner Modal */
+
+.winner-card {
+    max-width: 320px !important;
+	background: #ffffff;
+    margin-bottom: 2em;	
+    width: 80vw;
+    margin-left: 8%;
+    cursor: pointer;
+    transition: 0.5s ease;
+    border-left: 6px solid #e259a3;
+    box-shadow: 0 10px 18px 0 rgba(0,0,0,0.2);
+    position: relative;
+    border-radius: 4px;
+}
+
+.winner-card:hover {
+    box-shadow: none;
+    transition: .5s ease;
+}
+
+.winner-card a {
+	color: #4a4a4a;
+	text-decoration: none;
+}
+
+.winner-card-content {
+    padding: 5% 4%;
+}
+
+.medal-icon {
+    margin-left: 15.5%;
+}
+
+.winner-name {
+    margin-top: 0%; 
+    margin-bottom: 4%;
+    font-weight: bold;
+    width: max-content;
+    font-size: 18px;
+}
+
+.winner-card-content > img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 25vw;
+    border-radius: 0 4px 4px 0;
+}
+
+
+
+@media screen and (min-width: 640px) {
+    .winner-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .winner-card {
+        flex: 0 1 calc(50% - 1em);
+        width: 100%;
+        margin-left: 3%;
+    }
+
+    .winner-1 {
+        margin-left: 32%;
+    }
+
+    .winner-2, .winner-3 {
+        display: inline-block;
+        margin-left: 8%;
+        margin-top: 4%;
+    }
+
+    .winner-card-content > img {
+        width: 8vw;
+    }
+
+}
+
+@media screen and (min-width: 960px) {
+
+    .winner-card {
+        flex: 0 1 calc(25% - 1em);
+    }
+}
+
+
+

@@ -1,0 +1,234 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Rangtaal",
+      "id": 1,
+      "attr": {
+        "position": [
+          -79,
+          -24,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 1.25,
+          "text": {
+            "color": "#FFFFFF"
+          }
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Components",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Hyper Links",
+              "id": 6,
+              "attr": {
+                "position": [
+                  107,
+                  -171,
+                  5
+                ]
+              }
+            },
+            "2": {
+              "title": "Cards",
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": "Person info",
+                  "id": 8,
+                  "attr": {
+                    "position": [
+                      63,
+                      49.199981689453125,
+                      13
+                    ]
+                  }
+                },
+                "3": {
+                  "title": "Event card",
+                  "id": 11,
+                  "attr": {
+                    "position": [
+                      138,
+                      91.19998168945312,
+                      16
+                    ]
+                  }
+                },
+                "4": {
+                  "title": "Large card - LIVE",
+                  "id": 13,
+                  "attr": {
+                    "position": [
+                      64,
+                      143.19998168945312,
+                      15
+                    ]
+                  }
+                },
+                "0.5": {
+                  "title": "Only image",
+                  "id": 9,
+                  "attr": {
+                    "position": [
+                      134,
+                      7.199981689453125,
+                      12
+                    ]
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Slider",
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "Image",
+                  "id": 24,
+                  "attr": {
+                    "position": [
+                      94,
+                      32.600006103515625,
+                      4
+                    ]
+                  }
+                },
+                "2": {
+                  "title": "Cards",
+                  "id": 25,
+                  "attr": {
+                    "position": [
+                      94,
+                      80.60000610351562,
+                      3
+                    ]
+                  }
+                }
+              },
+              "attr": {}
+            },
+            "4": {
+              "title": "Tabs",
+              "id": 23
+            },
+            "5": {
+              "title": "Containers",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "flex",
+                  "id": 28
+                }
+              },
+              "attr": {}
+            },
+            "6": {
+              "title": "Counter",
+              "id": 29,
+              "attr": {
+                "position": [
+                  106,
+                  528.3999938964844,
+                  6
+                ]
+              }
+            },
+            "1.5": {
+              "title": "Buttons",
+              "id": 15,
+              "attr": {
+                "position": [
+                  127,
+                  -76,
+                  4
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Normal",
+                  "id": 18,
+                  "attr": {
+                    "position": [
+                      115,
+                      -40,
+                      1
+                    ]
+                  }
+                },
+                "2": {
+                  "title": "Semi-transparent",
+                  "id": 20,
+                  "attr": {
+                    "position": [
+                      145,
+                      25,
+                      2
+                    ]
+                  }
+                }
+              }
+            },
+            "1.75": {
+              "title": "Text",
+              "id": 17,
+              "attr": {
+                "position": [
+                  137,
+                  -14,
+                  3
+                ]
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              38,
+              -112,
+              1
+            ]
+          }
+        },
+        "-10": {
+          "title": "Pages",
+          "id": 5,
+          "attr": {},
+          "ideas": {
+            "1": {
+              "title": "Home",
+              "id": 30
+            },
+            "2": {
+              "title": "Rangtaal",
+              "id": 31,
+              "ideas": {}
+            },
+            "3": {
+              "title": "Past events",
+              "id": 33,
+              "ideas": {}
+            },
+            "4": {
+              "title": "Clubs",
+              "id": 36
+            },
+            "5": {
+              "title": "Feeback",
+              "id": 37
+            },
+            "6": {
+              "title": "About",
+              "id": 38
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "Rangtaal"
+}

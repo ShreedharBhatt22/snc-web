@@ -1,0 +1,20 @@
+.counter-box {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.6)), url('../assets/images/slider-image-4.jpg');
+    background-position: bottom;
+    background-size: cover;
+    opacity: 0.9;
+    color: #ffffff;
+}
+
+.counter {
+    padding: 80px 0;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter p {
+    margin-top: 10px;
+}

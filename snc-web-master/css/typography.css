@@ -1,0 +1,77 @@
+.title, .heading, .sub-heading {
+    font-size: 22px;
+    color: #444444;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.heading {
+    font-size: 28px;
+}
+
+.extra-large-text {
+    font-size: 32px;
+}
+
+.sub-heading {
+    font-size: 18px;
+}
+
+.para-text, .para-small-text {
+    font-size: 18px;
+    color: #444444;
+    line-height: 1.8em;
+}
+
+.para-small-text {
+    font-size: 14px;
+}
+
+@media screen and (max-width: 1200px) {
+
+    .title {
+        font-size: 20px;
+    }
+
+    .heading {
+        font-size: 26px;
+    }
+
+    .extra-large-text {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
+    .para-text {
+        font-size: 16px;
+    }
+
+    .extra-large-text {
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+    .title {
+        font-size: 18px;
+    }
+
+    .heading {
+        font-size: 24px;
+    }
+
+    .sub-heading {
+        font-size: 16px;
+    }
+
+    .para-small-text {
+        font-size: 12px;
+    }
+
+    .extra-large-text {
+        font-size: 24px;
+    }
+}

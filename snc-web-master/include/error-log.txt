@@ -1,0 +1,586 @@
+2020-10-14 06:15:29 pm -> success -> Feedback confiramation mail is sent to bmg12501@gmail.com..
+
+2020-10-14 07:56:10 pm -> success -> Feedback confiramation mail is sent to bmg12501@gmail.com..
+
+2020-10-14 08:25:59 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-14 08:31:17 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-14 08:35:48 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-14 08:36:18 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 06:40:28 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 06:41:08 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 06:42:03 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 06:43:32 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 06:45:02 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 06:58:17 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 07:27:10 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:08:40 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:09:30 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:11:05 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:12:38 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:14:00 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:14:53 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:15:43 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:16:27 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:31:27 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:34:07 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:34:58 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:35:03 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:36:15 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:37:08 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:38:01 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:39:05 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:39:29 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:39:47 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:46:04 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:49:46 am -> success -> in request.
+
+2020-10-15 08:49:46 am -> success -> .
+
+2020-10-15 08:49:46 am -> success -> repetition: 0.
+
+2020-10-15 08:49:50 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:50:25 am -> success -> in request.
+
+2020-10-15 08:50:25 am -> success -> .
+
+2020-10-15 08:50:25 am -> success -> repetition: 0.
+
+2020-10-15 08:50:30 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:53:06 am -> success -> in request.
+
+2020-10-15 08:53:06 am -> success -> interval passed ::: Period time -> 0..
+
+2020-10-15 08:53:06 am -> success -> repetition: 0.
+
+2020-10-15 08:53:10 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:53:10 am -> success -> otpRepetition -> 1.
+
+2020-10-15 08:53:50 am -> success -> in request.
+
+2020-10-15 08:53:50 am -> success -> interval passed ::: Period time -> 0..
+
+2020-10-15 08:53:50 am -> success -> repetition: 0.
+
+2020-10-15 08:53:55 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:53:55 am -> success -> otpRepetition -> 1.
+
+2020-10-15 08:54:26 am -> success -> in request.
+
+2020-10-15 08:54:26 am -> success -> interval passed ::: Period time -> 0..
+
+2020-10-15 08:54:26 am -> success -> repetition: 0.
+
+2020-10-15 08:54:30 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in..
+
+2020-10-15 08:54:30 am -> success -> otpRepetition -> 1.
+
+2020-10-15 09:05:38 am -> success -> in request
+
+2020-10-15 09:05:38 am -> success -> Time -> 1602745538.
+
+2020-10-15 09:05:38 am -> success -> Last activity -> 1602745538.
+
+2020-10-15 09:05:38 am -> success -> repetition: 0
+
+2020-10-15 09:05:43 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 09:05:43 am -> success -> otpRepetition -> 1
+
+2020-10-15 09:06:40 am -> success -> in request
+
+2020-10-15 09:06:40 am -> success -> Time -> 1602745600.
+
+2020-10-15 09:06:40 am -> success -> Last activity -> 1602745600.
+
+2020-10-15 09:06:40 am -> success -> repetition: 0
+
+2020-10-15 09:06:44 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 09:06:44 am -> success -> otpRepetition -> 1
+
+2020-10-15 09:10:32 am -> success -> in request
+
+2020-10-15 09:10:32 am -> success -> Time -> 1602745832.
+
+2020-10-15 09:10:32 am -> success -> Last activity -> 1602745604.
+
+2020-10-15 09:11:37 am -> success -> in request
+
+2020-10-15 09:11:37 am -> success -> Time -> 1602745897.
+
+2020-10-15 09:11:37 am -> success -> Last activity -> 1602745604.
+
+2020-10-15 09:12:10 am -> success -> in request
+
+2020-10-15 09:12:10 am -> success -> Time -> 1602745930.
+
+2020-10-15 09:12:10 am -> success -> Last activity -> 1602745604.
+
+2020-10-15 09:12:39 am -> success -> in request
+
+2020-10-15 09:12:39 am -> success -> Time -> 1602745959.
+
+2020-10-15 09:12:39 am -> success -> Last activity -> 1602745604.
+
+2020-10-15 09:12:39 am -> success -> repetition: 1
+
+2020-10-15 09:12:44 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 09:12:44 am -> success -> otpRepetition -> 2
+
+2020-10-15 09:18:33 am -> success -> in request
+
+2020-10-15 09:18:33 am -> success -> Time -> 1602746313.
+
+2020-10-15 09:18:33 am -> success -> Last activity -> 1602745964.
+
+2020-10-15 09:18:33 am -> success -> repetition: 2
+
+2020-10-15 09:18:37 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 09:18:37 am -> success -> otpRepetition -> 3
+
+2020-10-15 09:18:57 am -> success -> in request
+
+2020-10-15 09:18:57 am -> success -> Time -> 1602746337.
+
+2020-10-15 09:18:57 am -> success -> Last activity -> 1602746317.
+
+2020-10-15 09:29:03 am -> success -> in request
+
+2020-10-15 09:29:03 am -> success -> Time -> 1602746943.
+
+2020-10-15 09:29:03 am -> success -> Last activity -> 1602746317.
+
+2020-10-15 09:29:03 am -> success -> repetition: 0
+
+2020-10-15 09:29:07 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 09:29:07 am -> success -> otpRepetition -> 1
+
+2020-10-15 09:29:44 am -> success -> in request
+
+2020-10-15 09:29:44 am -> success -> Time -> 1602746984.
+
+2020-10-15 09:29:44 am -> success -> Last activity -> 1602746947.
+
+2020-10-15 09:29:44 am -> success -> repetition: 1
+
+2020-10-15 09:29:48 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 09:29:48 am -> success -> otpRepetition -> 2
+
+2020-10-15 09:30:31 am -> success -> in request
+
+2020-10-15 09:30:31 am -> success -> Time -> 1602747031.
+
+2020-10-15 09:30:31 am -> success -> Last activity -> 1602746988.
+
+2020-10-15 09:30:31 am -> success -> repetition: 2
+
+2020-10-15 09:30:35 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 09:30:35 am -> success -> otpRepetition -> 3
+
+2020-10-15 09:30:38 am -> success -> in request
+
+2020-10-15 09:30:38 am -> success -> Time -> 1602747038.
+
+2020-10-15 09:30:38 am -> success -> Last activity -> 1602747035.
+
+2020-10-15 10:04:49 am -> success -> in request
+
+2020-10-15 10:04:49 am -> success -> Time -> 1602749089.
+
+2020-10-15 10:04:49 am -> success -> Last activity -> 1602747035.
+
+2020-10-15 10:04:49 am -> success -> repetition: 0
+
+2020-10-15 10:04:55 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 10:04:55 am -> success -> otpRepetition -> 1
+
+2020-10-15 10:05:46 am -> success -> in request
+
+2020-10-15 10:05:46 am -> success -> Time -> 1602749146.
+
+2020-10-15 10:05:47 am -> success -> Last activity -> 1602749095.
+
+2020-10-15 10:05:47 am -> success -> repetition: 1
+
+2020-10-15 10:05:51 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 10:05:51 am -> success -> otpRepetition -> 2
+
+2020-10-15 10:06:59 am -> success -> in request
+
+2020-10-15 10:06:59 am -> success -> Time -> 1602749219.
+
+2020-10-15 10:06:59 am -> success -> Last activity -> 1602749151.
+
+2020-10-15 10:06:59 am -> success -> repetition: 2
+
+2020-10-15 10:07:10 am -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 10:07:10 am -> success -> otpRepetition -> 3
+
+2020-10-15 10:12:07 am -> success -> in request
+
+2020-10-15 10:12:07 am -> success -> Time -> 1602749527.
+
+2020-10-15 10:12:07 am -> success -> Last activity -> 1602749230.
+
+2020-10-15 10:12:28 am -> success -> in request
+
+2020-10-15 10:12:28 am -> success -> Time -> 1602749548.
+
+2020-10-15 10:12:28 am -> success -> Last activity -> 1602749230.
+
+2020-10-15 04:51:35 pm -> success -> in request
+
+2020-10-15 04:51:35 pm -> success -> Time -> 1602773495.
+
+2020-10-15 04:51:35 pm -> success -> Last activity -> 1602749230.
+
+2020-10-15 04:51:35 pm -> success -> repetition: 0
+
+2020-10-15 04:51:41 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 04:51:41 pm -> success -> otpRepetition -> 1
+
+2020-10-15 04:54:57 pm -> success -> in request
+
+2020-10-15 04:54:57 pm -> success -> Time -> 1602773697.
+
+2020-10-15 04:54:57 pm -> success -> Last activity -> 1602773501.
+
+2020-10-15 04:54:57 pm -> success -> repetition: 1
+
+2020-10-15 04:55:02 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 04:55:02 pm -> success -> otpRepetition -> 2
+
+2020-10-15 04:56:53 pm -> success -> in request
+
+2020-10-15 04:56:53 pm -> success -> Time -> 1602773813.
+
+2020-10-15 04:56:53 pm -> success -> Last activity -> 1602773702.
+
+2020-10-15 04:56:53 pm -> success -> repetition: 2
+
+2020-10-15 04:57:00 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 04:57:00 pm -> success -> otpRepetition -> 3
+
+2020-10-15 04:58:39 pm -> success -> in request
+
+2020-10-15 04:58:39 pm -> success -> Time -> 1602773919.
+
+2020-10-15 04:58:39 pm -> success -> Last activity -> 1602773820.
+
+2020-10-15 05:00:18 pm -> success -> in request
+
+2020-10-15 05:00:18 pm -> success -> Time -> 1602774018.
+
+2020-10-15 05:00:18 pm -> success -> Last activity -> 1602774018.
+
+2020-10-15 05:00:18 pm -> success -> repetition: 0
+
+2020-10-15 05:00:22 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 05:00:22 pm -> success -> otpRepetition -> 1
+
+2020-10-15 05:01:26 pm -> success -> in request
+
+2020-10-15 05:01:26 pm -> success -> Time -> 1602774086.
+
+2020-10-15 05:01:27 pm -> success -> Last activity -> 1602774022.
+
+2020-10-15 05:01:27 pm -> success -> repetition: 1
+
+2020-10-15 05:01:31 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-15 05:01:31 pm -> success -> otpRepetition -> 2
+
+2020-10-16 06:15:06 pm -> success -> in request
+
+2020-10-16 06:15:06 pm -> success -> Time -> 1602864906.
+
+2020-10-16 06:15:06 pm -> success -> Last activity -> 1602774091.
+
+2020-10-16 06:15:06 pm -> success -> repetition: 0
+
+2020-10-16 06:15:12 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 06:15:12 pm -> success -> otpRepetition -> 1
+
+2020-10-16 07:40:23 pm -> success -> in request
+
+2020-10-16 07:40:23 pm -> success -> Time -> 1602870023.
+
+2020-10-16 07:40:23 pm -> success -> Last activity -> 1602864912.
+
+2020-10-16 07:40:23 pm -> success -> repetition: 0
+
+2020-10-16 07:40:30 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 07:40:30 pm -> success -> otpRepetition -> 1
+
+2020-10-16 07:41:14 pm -> success -> in request
+
+2020-10-16 07:41:14 pm -> success -> Time -> 1602870074.
+
+2020-10-16 07:41:15 pm -> success -> Last activity -> 1602870030.
+
+2020-10-16 07:41:15 pm -> success -> repetition: 1
+
+2020-10-16 07:41:19 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 07:41:19 pm -> success -> otpRepetition -> 2
+
+2020-10-16 07:42:16 pm -> success -> in request
+
+2020-10-16 07:42:16 pm -> success -> Time -> 1602870136.
+
+2020-10-16 07:42:16 pm -> success -> Last activity -> 1602870079.
+
+2020-10-16 07:42:16 pm -> success -> repetition: 2
+
+2020-10-16 07:42:21 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 07:42:21 pm -> success -> otpRepetition -> 3
+
+2020-10-16 07:46:06 pm -> success -> in request
+
+2020-10-16 07:46:06 pm -> success -> Time -> 1602870366.
+
+2020-10-16 07:46:06 pm -> success -> Last activity -> 1602870141.
+
+2020-10-16 07:46:22 pm -> success -> in request
+
+2020-10-16 07:46:22 pm -> success -> Time -> 1602870382.
+
+2020-10-16 07:46:22 pm -> success -> Last activity -> 1602870382.
+
+2020-10-16 07:46:22 pm -> success -> repetition: 0
+
+2020-10-16 07:46:28 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 07:46:28 pm -> success -> otpRepetition -> 1
+
+2020-10-16 08:03:02 pm -> success -> in request
+
+2020-10-16 08:03:02 pm -> success -> Time -> 1602871382.
+
+2020-10-16 08:03:02 pm -> success -> Last activity -> 1602870388.
+
+2020-10-16 08:03:02 pm -> success -> repetition: 0
+
+2020-10-16 08:03:08 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 08:03:08 pm -> success -> otpRepetition -> 1
+
+2020-10-16 08:04:26 pm -> success -> in request
+
+2020-10-16 08:04:26 pm -> success -> Time -> 1602871466.
+
+2020-10-16 08:04:26 pm -> success -> Last activity -> 1602871388.
+
+2020-10-16 08:04:26 pm -> success -> repetition: 1
+
+2020-10-16 08:04:31 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 08:04:31 pm -> success -> otpRepetition -> 2
+
+2020-10-16 08:06:52 pm -> success -> in request
+
+2020-10-16 08:06:52 pm -> success -> Time -> 1602871612.
+
+2020-10-16 08:06:52 pm -> success -> Last activity -> 1602871471.
+
+2020-10-16 08:06:52 pm -> success -> repetition: 2
+
+2020-10-16 08:06:57 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 08:06:57 pm -> success -> otpRepetition -> 3
+
+2020-10-16 08:12:06 pm -> success -> in request
+
+2020-10-16 08:12:06 pm -> success -> Time -> 1602871926.
+
+2020-10-16 08:12:06 pm -> success -> Last activity -> 1602871617.
+
+2020-10-16 08:12:21 pm -> success -> in request
+
+2020-10-16 08:12:21 pm -> success -> Time -> 1602871941.
+
+2020-10-16 08:12:21 pm -> success -> Last activity -> 1602871941.
+
+2020-10-16 08:12:21 pm -> success -> repetition: 0
+
+2020-10-16 08:12:26 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 08:12:26 pm -> success -> otpRepetition -> 1
+
+2020-10-16 08:14:25 pm -> success -> in request
+
+2020-10-16 08:14:25 pm -> success -> Time -> 1602872065.
+
+2020-10-16 08:14:25 pm -> success -> Last activity -> 1602871946.
+
+2020-10-16 08:14:25 pm -> success -> repetition: 1
+
+2020-10-16 08:14:30 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 08:14:30 pm -> success -> otpRepetition -> 2
+
+2020-10-16 08:25:05 pm -> success -> in request
+
+2020-10-16 08:25:05 pm -> success -> Time -> 1602872705.
+
+2020-10-16 08:25:05 pm -> success -> Last activity -> 1602872070.
+
+2020-10-16 08:25:05 pm -> success -> repetition: 0
+
+2020-10-16 08:25:11 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 08:25:11 pm -> success -> otpRepetition -> 1
+
+2020-10-16 08:31:04 pm -> success -> in request
+
+2020-10-16 08:31:04 pm -> success -> Time -> 1602873064.
+
+2020-10-16 08:31:04 pm -> success -> Last activity -> 1602872711.
+
+2020-10-16 08:31:04 pm -> success -> repetition: 1
+
+2020-10-16 08:31:09 pm -> success -> Login OTP number for Admin is successfully sent on bhuvan.gce18@sot.pdpu.ac.in.
+
+2020-10-16 08:31:09 pm -> success -> otpRepetition -> 2
+
+2020-10-20 07:32:36 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-20 07:35:49 pm -> error -> 
+
+2020-10-20 07:36:31 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-20 07:50:35 pm -> error -> 
+
+2020-10-20 07:59:05 pm -> error -> 
+
+2020-10-20 08:00:02 pm -> error -> 
+
+2020-10-20 08:01:21 pm -> error -> 
+
+2020-10-20 08:06:44 pm -> success -> OTP code is sent on +91 7984817104.
+
+2020-10-20 08:30:45 pm -> success -> OTP code is sent on +91 7984817104.
+
+2020-10-20 08:35:14 pm -> success -> OTP code is sent on +91 7984817104.
+
+2020-10-20 08:40:41 pm -> success -> OTP code is sent on +91 7984817104.
+
+2020-10-20 08:41:38 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-20 08:43:00 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-20 08:46:56 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-20 08:47:28 pm -> success -> Error in updating voting status for +91 9426428032.
+
+2020-10-20 08:48:21 pm -> success -> Voting details are submitted using +91 9426428032.
+
+2020-10-20 08:48:30 pm -> success -> Voting details are submitted using +91 9426428032.
+
+2020-10-20 08:50:36 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-20 08:53:14 pm -> success -> Voting details are submitted using +91 9426428032.
+
+2020-10-20 08:53:25 pm -> success -> Voting details are submitted using +91 9426428032.
+
+2020-10-20 08:58:27 pm -> success -> New entry for e04 is created.
+
+2020-10-20 08:59:04 pm -> success -> New entry for e04 is created.
+
+2020-10-20 08:59:50 pm -> success -> New entry for e04 is created.
+
+2020-10-21 07:07:02 am -> success -> OTP code is sent on +91 7984817104.
+
+2020-10-21 07:07:46 am -> success -> OTP code is sent on +91 7984817104.
+
+2020-10-21 07:15:41 am -> success -> OTP code is sent on +91 7984817104.
+
+2020-10-21 07:31:01 am -> success -> OTP code is sent on +91 7984817104.
+
+2020-10-21 07:32:09 am -> success -> OTP code is sent on +91 7984817104.
+
+2020-10-21 07:32:28 am -> success -> Voting details are submitted using +91 7984817104.
+
+2020-10-21 07:33:36 am -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 07:34:00 am -> success -> Voting details are submitted using +91 9426428032.
+
+2020-10-21 05:43:17 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 05:47:48 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 05:48:32 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 05:49:10 pm -> success -> Voting details are submitted using +91 9426428032.
+
+2020-10-21 05:50:38 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 05:50:42 pm -> success -> Error in submitting voting details for +91 9426428032.
+
+2020-10-21 05:55:54 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 06:00:37 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 06:02:04 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 06:02:10 pm -> success -> Error in submitting voting details for +91 9426428032.
+
+2020-10-21 06:04:29 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 06:09:14 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 06:09:27 pm -> success -> Error in submitting voting details for +91 9426428032.
+
+2020-10-21 06:10:48 pm -> success -> OTP code is sent on +91 9426428032.
+
+2020-10-21 06:11:12 pm -> success -> Voting details are submitted using +91 9426428032.
+
